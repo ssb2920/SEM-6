@@ -1,4 +1,0 @@
-A 5A
-L  6A
-ST 7A
-END 
