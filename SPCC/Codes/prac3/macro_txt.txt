@@ -1,0 +1,16 @@
+MACRO
+incr &A1, &A2
+A 1, &A1
+A 2, &A2
+MEND
+PG1 START
+USING *, 15
+L 1, five
+A 1, four
+incr five, four
+ST 1, temp
+incr four, five
+five DC F'5'
+four DC F'6'
+temp DS 1F
+END

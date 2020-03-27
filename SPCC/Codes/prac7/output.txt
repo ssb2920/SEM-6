@@ -1,0 +1,15 @@
+Enter the expression
+4+3
+Result = 7
+
+Enter the expression
+10-2
+Result = 8
+
+Enter the expression
+9/3
+Result = 3
+
+Enter the expression
+8*6
+Result = 48
