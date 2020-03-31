@@ -1,0 +1,8 @@
+size,colour,shape,weight,expensive
+big,black,square,heavy,yes
+small,blue,triangle,light,yes
+small,blue,square,light,no
+big,green,triangle,heavy,no
+big,blue,square,light,no
+big,green,square,heavy,yes
+small,black,triangle,light,yes
